@@ -4,7 +4,7 @@
 
 In this task, we implemented the game For in row.
 
-For more info about the assignment see: Assignment 3 - Instructions.pdf \n
+For more info about the assignment see: Assignment 3 - Instructions.pdf <br />
 For more info about the game: https://en.wikipedia.org/wiki/Connect_Four
 
 
